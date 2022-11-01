@@ -1,4 +1,4 @@
-k = [int(input()) for n in range(int(input()))]
+k = [int(input()) for _ in range(int(input()))]
 running = False
 last_run = k[0]
 current_run = 0
