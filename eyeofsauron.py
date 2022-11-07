@@ -1,2 +1,1 @@
-a, b = input().split("()")
-print("correct" if a == b else "second")
+a,b=input().split("()");print("correct"if a==b else"fix")
