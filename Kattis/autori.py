@@ -1,0 +1,1 @@
+print("".join([name[0].upper()for name in input().split("-")]))

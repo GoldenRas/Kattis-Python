@@ -1,0 +1,1 @@
+x=int(input());print(99 if x<100 else(round((x+1.1)/100)*100)-1)
