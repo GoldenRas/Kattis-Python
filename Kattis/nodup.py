@@ -1,0 +1,1 @@
+w=input().split();print('yes'if len(w)==len(set(w))else'no')
