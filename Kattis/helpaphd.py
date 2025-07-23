@@ -1,0 +1,6 @@
+for i in range(int(input())):
+    a=input()
+    if (a == "P=NP"):
+        print("skipped")
+    else:
+        print(str(eval(a)))
